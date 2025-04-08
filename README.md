@@ -1,6 +1,6 @@
 # Covid-19-Economic-Impact-On-Business-Failure-
 This report analyzes business failure in France from 2014-2024, using data from INSEE.
-[DATASET COVER](![dataset-cover](https://github.com/user-attachments/assets/54fd4a43-c13e-4da5-b2be-29574c2599cb))
+![dataset-cover](https://github.com/user-attachments/assets/54fd4a43-c13e-4da5-b2be-29574c2599cb)
 
 #### Introduction 
 The number of business failures fell sharply during the Covid crisis. Public support prevented many companies from going bankrupt, particularly the smallest and those in the sectors most affected by the crisis. However,an analysis of the companies that failed shows that the market selection continued to play a role, with the most fragile companies continuing to enter into legal proceedings during the crisis. <br> French government support for businesses during the COVID-19 pandemic induced economic crisis helped avert a wave of bankruptcies. in 2020, support measures led to a record-breaking year-on-year drop in the number of business failures (i.e.court-ordered reorganizations or liquidations), with 31,000 recorded that year, compared to 50,000 in 2019. This trend continued in 2021, with a total of 40,000 bankruptcies "avoided" from March 2020 to October 2021, or a 45% decline compared to the equivalent pre-pandemic period. <br> Business failures are a critical economic indicator, reflecting financial health, policy effectiveness, and external disruptions. This report examines failure trends across:
